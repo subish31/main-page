@@ -1,0 +1,13 @@
+.profile{
+    display: grid;
+    justify-content: center;
+    padding-top: 200px;
+    text-align: center;
+}
+p{
+    display: grid;
+    justify-content: center;
+}
+body{
+    background-color: bisque;
+}
